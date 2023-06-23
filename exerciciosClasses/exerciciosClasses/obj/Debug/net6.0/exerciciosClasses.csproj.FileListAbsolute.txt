@@ -1,0 +1,15 @@
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\bin\Debug\net6.0\exerciciosClasses.exe
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\bin\Debug\net6.0\exerciciosClasses.deps.json
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\bin\Debug\net6.0\exerciciosClasses.runtimeconfig.json
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\bin\Debug\net6.0\exerciciosClasses.dll
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\bin\Debug\net6.0\exerciciosClasses.pdb
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.csproj.AssemblyReference.cache
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.AssemblyInfoInputs.cache
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.AssemblyInfo.cs
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.csproj.CoreCompileInputs.cache
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.dll
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\refint\exerciciosClasses.dll
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.pdb
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\exerciciosClasses.genruntimeconfig.cache
+D:\listasMontanha\exerciciosClasses\exerciciosClasses\obj\Debug\net6.0\ref\exerciciosClasses.dll
